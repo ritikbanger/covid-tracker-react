@@ -1,4 +1,4 @@
-# Getting Started with Covid Tracker
+# Real Time Covid Tracker
 
 The Covid Tracker use Covid19.org API to fetch Real time details of Covid in India.
 Check out the app made in React.
