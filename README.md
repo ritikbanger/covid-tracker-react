@@ -4,7 +4,6 @@ The Covid Tracker use Covid19.org API to fetch Real time details of Covid in Ind
 Check out the app made in React.
 You must need node modules to run this app on localhost.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
